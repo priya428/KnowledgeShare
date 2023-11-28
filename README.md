@@ -11,3 +11,6 @@ The App requires minimum effort to use. Technology used
 
 
 There is only one SharePoint list required for this to store all participants and their child santa combinations and responses.    
+
+
+The link to download .MSAPP file for the App: Link to Download
